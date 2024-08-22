@@ -1,0 +1,15 @@
+numpy==1.23.4
+pandas==1.5.0
+tqdm==4.66.2
+Pillow==10.3.0
+torch==2.2.2
+setuptools==65.5.0
+pip==21
+wheel==0.38.0
+gym==0.21.0
+stable-baselines3==1.6.2
+h5py==3.7.0
+wandb==0.13.4
+opencv-python==4.6.0.66
+torchvision==0.17.2
+omegaconf==2.2.3
